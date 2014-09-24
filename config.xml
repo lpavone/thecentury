@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mobile.thecentury" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>The Century</name>
+    <description>
+        A family tree of Ken Follet's "The Century" trilogy. 
+    </description>
+    <author email="leonardopavone@gmail.com" href="http://cordova.io">
+        Leonardo Pavone
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <feature name="Globalization">
+        <param name="android-package" value="org.apache.cordova.globalization.Globalization" />
+    </feature>
+</widget>
